@@ -39,6 +39,13 @@
           <element id="file-copy" path="$USER_HOME$/桌面/spring资料/springmvc和mybatis整合/aspectjweaver-1.6.11.jar" />
           <element id="file-copy" path="$USER_HOME$/桌面/spring资料/springmvc和mybatis整合/asm-3.3.1.jar" />
           <element id="file-copy" path="$USER_HOME$/桌面/spring资料/springmvc和mybatis整合/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/hibernate-validator/validation-api-1.0.0.GA.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/hibernate-validator/jboss-logging-3.1.0.CR2.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/hibernate-validator/hibernate-validator-4.3.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/文件上传/commons-io-2.4.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/文件上传/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/springmvc加入json支持/jackson-mapper-asl-1.9.11.jar" />
+          <element id="file-copy" path="$USER_HOME$/桌面/jar包/springmvc加入json支持/jackson-core-asl-1.9.11.jar" />
         </element>
       </element>
     </root>

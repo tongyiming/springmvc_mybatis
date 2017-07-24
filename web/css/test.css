@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.main_bar{
+    width:100%;
+    height: 350px;
+    margin-top:200px;
+}
+.login_form{
+    width:30%;
+    height:80%;
+    margin:0 auto;
+    /*border:2px solid #16A085;*/
+    border-radius: 15px;
+    padding:10px;
+    background: #ECF0F1;
+}
+.name,.pwd,.sbm_btn{
+    display:block;
+    width:70%;
+    margin:0 auto;
+    height:35px;
+    font-size:16px;
+    border-color:transparent;
+    border-radius: 5px;
+    border:0;
+    padding-left:8px;
+
+}
+.yzm{
+    height: 35px;
+    margin:0 auto;
+    width: 72%;
+    line-height: 35px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.code{
+    width:50%;
+    height: 35px;
+    border:0;
+    border-color: transparent;
+    font-size:16px;
+    border-radius: 5px;
+    padding-left: 8px;
+}
+.code_pic{
+    display: block;
+    width:40%;
+    height:35px;
+    background-color: #34495e;
+    color:#FFF;
+    position: absolute;
+    top: 0px;
+    left:60%;
+    border-radius: 5px;
+    text-align: center;
+}
+.name{
+    margin-top:20px;
+}
+.sbm_btn{
+    text-align: center;
+    background-color: #1abc9c;
+    color:#fff;
+    line-height: 35px;
+}
+.re_pwd {
+    width: 25%;
+    margin: 10px auto 10px;
+}
+.re_pwd a{
+    text-decoration: none;
+    font-size:14px;
+    color: #ccc;
+}
+.re_pwd a:hover{
+    cursor: pointer;
+    color:#16A085;
+}
+.errorTips{
+    width:70%;
+    color:red;
+    font-size: 14px;
+    margin:0 auto;
+    height: 20px;
+    line-height:20px;
+}
